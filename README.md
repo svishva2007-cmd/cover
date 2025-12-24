@@ -1,6 +1,6 @@
 # Ex.06 Book Front Cover Page Design
 ## Date:24.12.2025
-##Register number:25006451
+## Register number:25006451
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
